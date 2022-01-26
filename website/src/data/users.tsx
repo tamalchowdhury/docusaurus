@@ -1545,6 +1545,14 @@ const Users: User[] = [
     tags: ['opensource', 'favorite', 'design', 'large', 'product'],
   },
   {
+    title: 'TamalWeb',
+    description: 'Front End engineer\'s personal blog and portfolio helping developers',
+    preview: require('./showcase/tamalwebsite.png'),
+    website: 'https://tamalweb.com/',
+    source: 'https://github.com/tamalweb/tamalwebsite',
+    tags: ['personal'],
+  },
+  {
     title: 'T-Regx',
     description: 'Programmer-oriented Regular Expressions library for PHP',
     preview: require('./showcase/t-regx.png'),
